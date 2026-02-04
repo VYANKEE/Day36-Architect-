@@ -1,10 +1,10 @@
-# ⚡ Day 36 : 45 days Coding Challenge -: System Design Visualizer Pro
+# ⚡ Day 36 : 45 Days Coding Challenge -: System Design Visualizer Pro
 
 ![Project Banner](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Stack-React%20|%20Tailwind%20|%20Framer%20Motion-cyan?style=for-the-badge)
 
 
-> **"Don't just read about System Design. Watch it live."**
+   > **"Don't just read about System Design. Watch it live."**
 
 An interactive, gamified simulation of high-scale distributed systems. This project visualizes invisible concepts like **Load Balancing, Caching (Redis), Database Sharding, and API Latency** through a high-fidelity cyberpunk interface.
 
